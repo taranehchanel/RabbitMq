@@ -68,7 +68,7 @@ public class MessageConsumer(ILogger<MessageConsumer> logger, IServiceScopeFacto
         try
         {
             using var scope = scopeFactory.CreateScope();
-            var repo = scope.ServiceProvider.GetRequiredService<RabbitMqDbContext>();
+            var repo = scope.ServiceProvider.GetRequiredService<RabbitMqDbContext>(); 
             repo.Add(message);
             repo.SaveChanges();
         }
