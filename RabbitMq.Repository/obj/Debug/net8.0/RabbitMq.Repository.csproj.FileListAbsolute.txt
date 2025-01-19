@@ -1,0 +1,17 @@
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\bin\Debug\net8.0\RabbitMq.Repository.deps.json
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\bin\Debug\net8.0\RabbitMq.Repository.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\bin\Debug\net8.0\RabbitMq.Repository.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\bin\Debug\net8.0\RabbitMq.Domain.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\bin\Debug\net8.0\RabbitMq.Persistence.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\bin\Debug\net8.0\RabbitMq.Domain.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\bin\Debug\net8.0\RabbitMq.Persistence.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.Repository.csproj.AssemblyReference.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.Repository.AssemblyInfoInputs.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.Repository.AssemblyInfo.cs
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.Repository.csproj.CoreCompileInputs.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.FA41737D.Up2Date
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.Repository.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\refint\RabbitMq.Repository.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\RabbitMq.Repository.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Repository\obj\Debug\net8.0\ref\RabbitMq.Repository.dll

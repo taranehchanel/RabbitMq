@@ -1,0 +1,11 @@
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\bin\Debug\net8.0\RabbitMq.Domain.deps.json
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\bin\Debug\net8.0\RabbitMq.Domain.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\bin\Debug\net8.0\RabbitMq.Domain.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\RabbitMq.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\RabbitMq.Domain.AssemblyInfoInputs.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\RabbitMq.Domain.AssemblyInfo.cs
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\RabbitMq.Domain.csproj.CoreCompileInputs.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\RabbitMq.Domain.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\refint\RabbitMq.Domain.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\RabbitMq.Domain.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Domain\obj\Debug\net8.0\ref\RabbitMq.Domain.dll

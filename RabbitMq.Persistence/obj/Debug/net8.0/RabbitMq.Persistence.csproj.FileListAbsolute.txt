@@ -1,0 +1,17 @@
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\bin\Debug\net8.0\RabbitMq.Persistence.deps.json
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\bin\Debug\net8.0\RabbitMq.Persistence.runtimeconfig.json
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\bin\Debug\net8.0\RabbitMq.Persistence.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\bin\Debug\net8.0\RabbitMq.Persistence.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\bin\Debug\net8.0\RabbitMq.Domain.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\bin\Debug\net8.0\RabbitMq.Domain.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.csproj.AssemblyReference.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.AssemblyInfoInputs.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.AssemblyInfo.cs
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.csproj.CoreCompileInputs.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.0920522C.Up2Date
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\refint\RabbitMq.Persistence.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.genruntimeconfig.cache
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\ref\RabbitMq.Persistence.dll
