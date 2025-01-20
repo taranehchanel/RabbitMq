@@ -144,3 +144,4 @@ D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WorkerService\bin\Debug\net8.0\R
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WorkerService\bin\Debug\net8.0\RabbitMq.Repository.pdb
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WorkerService\bin\Debug\net8.0\RabbitMq.Domain.pdb
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WorkerService\bin\Debug\net8.0\RabbitMq.Persistence.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WorkerService\obj\Debug\net8.0\RabbitMq.WorkerService.sourcelink.json

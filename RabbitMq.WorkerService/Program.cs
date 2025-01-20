@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using RabbitMq.Persistence;
-using RabbitMq.Repository;
 using RabbitMq.WorkerService;
 
 var builder = Host.CreateApplicationBuilder(args);
@@ -21,7 +20,7 @@ builder.Services.AddHostedService<MessageConsumer>();
 //     optionsLifetime: ServiceLifetime.Singleton);
 
 builder.Services.AddDbContextFactory<RabbitMqDbContext>(options =>
-        options.UseSqlServer(connectionString: "Server=T-NESARI;User ID=Taraneh;Password=Itt@12345;Database=RabbitMqDB;MultipleActiveResultSets=true;TrustServerCertificate=True;"),
+        options.UseSqlServer(connectionString: builder.Configuration.GetConnectionString(nameof(RabbitMqDbContext))),
     ServiceLifetime.Scoped);
 
 var host = builder.Build();

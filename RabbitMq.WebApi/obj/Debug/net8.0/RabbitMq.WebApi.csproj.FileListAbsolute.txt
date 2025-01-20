@@ -54,3 +54,6 @@ D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WebApi\obj\Debug\net8.0\refint\R
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WebApi\obj\Debug\net8.0\RabbitMq.WebApi.pdb
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WebApi\obj\Debug\net8.0\RabbitMq.WebApi.genruntimeconfig.cache
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WebApi\obj\Debug\net8.0\ref\RabbitMq.WebApi.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WebApi\bin\Debug\net8.0\RabbitMq.Domain.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WebApi\bin\Debug\net8.0\RabbitMq.Domain.pdb
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.WebApi\obj\Debug\net8.0\RabbitMq.WebApi.sourcelink.json

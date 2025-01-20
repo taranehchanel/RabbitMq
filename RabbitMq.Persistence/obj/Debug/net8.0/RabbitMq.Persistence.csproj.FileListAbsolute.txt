@@ -15,3 +15,4 @@ D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\ref
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.pdb
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.genruntimeconfig.cache
 D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\ref\RabbitMq.Persistence.dll
+D:\Taraneh\RabbitMq-main\RabbitMq-main\RabbitMq.Persistence\obj\Debug\net8.0\RabbitMq.Persistence.sourcelink.json
